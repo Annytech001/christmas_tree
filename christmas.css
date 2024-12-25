@@ -19,3 +19,16 @@ body {
     height:90%;
     visibility:hidden;
   }
+  footer{
+    
+      background: linear-gradient(45deg, #064513, #ff9900); 
+      color: white;
+      text-align: center; 
+      justify-content: center;
+      padding: 25px; 
+      font-family: 'Arial', sans-serif; 
+      font-size: 24px; 
+      line-height: 1.5; 
+      border-radius: 10px;
+    }
+  
